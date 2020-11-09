@@ -16,6 +16,7 @@ MaCNet result in paper have upload in here, the report result is PR_0.790 SR_0.5
 It is implementation on Pytorch.
 
 # Prerequisites
+We implemented it on the PyTorch platform with 3.6GHz Intel Core i7-6850K CPU,405 NVIDIA GeForce GTX 1080 Ti GPU and 16G RAM. 
 1. python3.5
 
 2. torch == 1.2.0
