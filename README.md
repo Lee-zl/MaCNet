@@ -11,7 +11,7 @@ Download URL: https://github.com/Alexadlu/MANet （来自安徽大学计算机�
 # Result
 MaCNet result in paper have upload in here, the report result is PR_0.790 SR_0.554 on RGBT234, PR_0.880 SR_0.714 on GTOT.
 
-![image](https://github.com/Lee-zl/MaCNet/blob/master/MaCNet.png)
+![image](https://github.com/Lee-zl/MaCNet/blob/master/result.png)
 
 It is implementation on Pytorch.
 
