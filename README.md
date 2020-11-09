@@ -28,4 +28,4 @@ by yourself need install some library functions
 
 # Visualization
 
-![image](https://github.com/Lee-zl/MaCNet/blob/master/MaCNet.png)
+![image](https://github.com/Lee-zl/MaCNet/blob/master/visualization.png)
